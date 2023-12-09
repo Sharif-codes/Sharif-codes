@@ -20,7 +20,20 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharif-codes&" alt="sharif-codes" /></p>
 <img src="https://api.githubtrends.io/user/svg/Sharif-codes/langs?time_range=one_year&theme=classic" alt="tailwind"/>
-<h3 align="left">Pinned projects:</h3>
+<h3 align="left">Projects:</h3>
+<h4 align="left">1. To-let management</h3>
+<a href="https://auth-integ-private.web.app/" target="_blank" rel="noreferrer">Click here to open live link</a>
+<h4>Feature:</h4>
+<li>Fgtasgd</li>
+<h4 align="left">2. Group study</h3>
+<a href="https://group-study-10c82.web.app/" target="_blank" rel="noreferrer">Click here to open live link</a>
+<h4>Feature:</h4>
+<li>Fgtasgd</li>
+<h4 align="left">3. Tech valy</h3>
+<a href="https://tech-valy.web.app/" target="_blank" rel="noreferrer">Click here to open live link</a>
+<h4>Feature:</h4>
+<li>Fgtasgd</li>
+
 
 
 
