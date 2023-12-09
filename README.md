@@ -19,3 +19,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharif-codes&show_icons=true&locale=en" alt="sharif-codes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharif-codes&" alt="sharif-codes" /></p>
+<img src="https://api.githubtrends.io/user/svg/Sharif-codes/langs?time_range=one_year&theme=classic" alt="tailwind"/>
+<h3 align="left">Pinned projects:</h3>
+
+
+
