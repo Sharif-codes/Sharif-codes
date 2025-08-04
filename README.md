@@ -21,31 +21,27 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharif-codes&" alt="sharif-codes" /></p>
 <img src="https://api.githubtrends.io/user/svg/Sharif-codes/langs?time_range=one_year&theme=classic" alt="tailwind"/>
 <h2 align="left">Projects:</h2>
-<h4 align="left">1. To-let management</h3>
+<h4 align="left">1. Digi Store (E-commerce site)</h3>
+<a href="https://digi-store-sharif.vercel.app/" target="_blank" rel="noreferrer">Click here to open live link</a>
+<h4>Feature:</h4>
+<li>Show featured products with searching and multiple filtering options.</li>
+<li>Add to cart and integreted payment gateway system with sslcommerz.</li>
+<li>Statistics for sold and purchahed product and user management.</li>
+<li>Product review and adding to wishlist.</li>
+
+<h4 align="left">2. Domain Hub (Domain Selling website</h3>
+<a href="https://domain-hub-a81ae.web.app/" target="_blank" rel="noreferrer">Click here to open live link</a>
+<h4>Feature:</h4>
+<li>Category wise domain searching and payment gateway using stripe and sslcommerz.</li>
+<li>Notification and chatbot support system for customer support.</li>
+<li>Free trial and renew domain subscription after validity.</li>
+<li>Language translator between English and Bengali.</li>
+<h4 align="left">3. Building Management</h3>
 <a href="https://auth-integ-private.web.app/" target="_blank" rel="noreferrer">Click here to open live link</a>
 <h4>Feature:</h4>
-<li>User/member Registration</li>
-<li>Room booking Management</li>
-<li>Payment system</li>
-<li>User/member management</li>
-<li>Coupns and Anouncemnets manage.</li>
-<h4 align="left">2. Group study</h3>
-<a href="https://group-study-10c82.web.app/" target="_blank" rel="noreferrer">Click here to open live link</a>
-<h4>Feature:</h4>
-<li>Any visitor can see all the posted assignment.</li>
-<li>User can register and login to the system.</li>
-<li>Any valid user can create assignment, but only the author of the assignment can delete his or her created assignment.</li>
-<li>A valid user can Take assignment and submit the Answer script as pdf link</li>
-<li>Examiner can see the pending assignment and mark the assignment by seeing the pdf preview and also can give feedback.</li>
-<li>Examinee can see his mark and examiner feedback.</li>
-<h4 align="left">3. Tech valy</h3>
-<a href="https://tech-valy.web.app/" target="_blank" rel="noreferrer">Click here to open live link</a>
-<h4>Feature:</h4>
-<li>Products are available according to the brand name.</li>
-<li>User can add, delete, and update brand products.</li>
-<li>only authenticated user can for do these opration mentioned above.</li>
-<li>user can add product to cart and also can delete it any time.</li>
-<li>after successfull login user's name with picture will be visible at the top of the website</li>
+<li>Room booking Management.</li>
+<li>Coupon management and payment gateway using stripe.t</li>
+<li>Separate dashboard for admin and users.</li>
 
 
 
